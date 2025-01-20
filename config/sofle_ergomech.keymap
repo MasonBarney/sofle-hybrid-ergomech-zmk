@@ -56,7 +56,7 @@
                                                                &kp ENTER  &kp RIGHT  &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
 
-            sensor-bindings = <&inc_dec_kp UP_ARROW DOWN &inc_dec_kp C_VOL_UPff C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_UPff C_VOL_DN>;
         };
 
         lower_layer {

@@ -48,12 +48,12 @@ layers:
   - .
   - /
   - RSHFT
-  - Ctl+`
-  - LGUI
-  - LALT
+  - CONTEXT MENU
   - LCTRL
+  - LALT
+  - LGUI
   - LSHFT
-  - lower
+  - {t: lower, h: sticky}
   - raise
   - SPACE
   - RET

@@ -71,7 +71,7 @@ layers:
   - {t: Gui+S, h: Gui+Sft+S}
   - F4
   - '&Uppercase_Chrome'
-  - {t: Gui+Sft+R, h: Gui+R}
+  - {t: Gui+R, h: Gui+Sft+R}
   - Gui+ENTER
   - F8
   - F9
@@ -88,7 +88,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - F12
+  - DELETE
   - {t: ▽, type: trans}
   - '!'
   - '@'

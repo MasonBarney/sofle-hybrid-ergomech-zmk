@@ -65,12 +65,12 @@ layers:
   - LEFT
   - DOWN
   lower:
-  - {t: ▽, type: trans}
-  - F1
+  - {t: Gui+Q, h: Gui+W}
+  - Gui+`
   - F2
   - {t: Gui+S, h: Gui+Sft+S}
   - F4
-  - F5
+  - '&Uppercase_Chrome'
   - F6
   - F7
   - F8

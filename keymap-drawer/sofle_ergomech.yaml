@@ -47,7 +47,7 @@ layers:
   - ','
   - .
   - /
-  - RSHFT
+  - '&Parenthesies'
   - CONTEXT MENU
   - LCTRL
   - LALT
@@ -68,7 +68,7 @@ layers:
   - {t: ▽, type: trans}
   - F1
   - F2
-  - F3
+  - {t: Gui+S, h: Gui+Sft+S}
   - F4
   - F5
   - F6

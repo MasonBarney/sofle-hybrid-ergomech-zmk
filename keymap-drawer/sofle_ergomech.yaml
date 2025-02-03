@@ -71,8 +71,8 @@ layers:
   - {t: Gui+S, h: Gui+Sft+S}
   - F4
   - '&Uppercase_Chrome'
-  - F6
-  - F7
+  - {t: Gui+Sft+R, h: Gui+R}
+  - Gui+ENTER
   - F8
   - F9
   - F10

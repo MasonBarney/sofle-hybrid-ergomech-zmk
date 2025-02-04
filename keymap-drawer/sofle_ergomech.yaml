@@ -58,7 +58,7 @@ layers:
   - SPACE
   - RET
   - Ctl+`
-  - RGUI
+  - '&Dbl_Parenthesies'
   - ENTER
   - RIGHT
   - UP ARROW
@@ -112,7 +112,7 @@ layers:
   - ;
   - ':'
   - \
-  - {t: ▽, type: trans}
+  - CAPSLOCK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -124,11 +124,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&msc MOVE_Y(15)'
+  - '&mkp RCLK'
   - '&msc SCRL_RIGHT'
-  - '&msc SCRL_UP'
-  - '&msc SCRL_LEFT'
   - '&msc SCRL_DOWN'
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_UP'
   raise:
   - BT CLR
   - {t: BT, h: '0'}

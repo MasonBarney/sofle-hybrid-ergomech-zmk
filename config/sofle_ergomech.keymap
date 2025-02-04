@@ -23,10 +23,7 @@
     flavor = "tap-preferred";
 };
 
-&caps_word {
-    continue-list = <UNDERSCORE MINUS SPACE>;
-};
-
+&caps_word { continue-list = <UNDERSCORE MINUS SPACE COMMA SEMICOLON SINGLE_QUOTE DOUBLE_QUOTES>; };
 
 / {
     // Activate ADJUST layer by pressing raise and lower

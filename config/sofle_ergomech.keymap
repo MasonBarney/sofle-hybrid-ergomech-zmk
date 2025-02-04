@@ -23,10 +23,6 @@
     flavor = "tap-preferred";
 };
 
-&caps_word {
-    continue-list = <UNDERSCORE BACKSPACE DELETE SPACE EXCLAMATION DOLLAR PERCENT AMPERSAND LEFT_PARENTHESIS RIGHT_PARENTHESIS QUESTION SEMICOLON SINGLE_QUOTE DOUBLE_QUOTES COMMA PERIOD>;
-};
-
 / {
     // Activate ADJUST layer by pressing raise and lower
 
@@ -79,7 +75,7 @@
 &kp EQUAL           &kp N1       &kp N2       &kp N3       &kp N4       &kp N5       &kp N6       &kp N7       &kp N8        &kp N9         &kp N0    &kp MINUS
 &kp ESC             &kp Q        &kp W        &kp E        &kp R        &kp T        &mt LG(Y) Y  &mt LG(U) U  &mt LG(I) I   &mt LG(O) O    &kp P     &kp BSPC
 &kp TAB             &mt LG(A) A  &kp S        &kp D        &mt LG(F) F  &kp G        &kp H        &kp J        &kp K         &kp L          &kp SEMI  &kp SQT
-&mt LSHFT GRAVE     &mt LG(Z) Z  &mt LG(X) X  &mt LG(C) C  &mt LG(V) V  &mt LG(B) B  &mt LG(N) N  &kp M        &kp COMMA     &kp DOT        &kp FSLH  &Dbl_Parenthesies
+&mt LSHFT GRAVE     &mt LG(Z) Z  &mt LG(X) X  &mt LG(C) C  &mt LG(V) V  &mt LG(B) B  &mt LG(N) N  &kp M        &kp COMMA     &kp DOT        &kp FSLH  &Dbl_Brakets
 &kp K_CONTEXT_MENU  &kp LCTRL    &kp LALT     &kp LGUI     &kp LSHFT    &sl LOWER    &mo RAISE    &kp SPACE    &kp RET       &kp LC(GRAVE)  &kp RGUI
                                                                                      &kp ENTER    &kp RIGHT    &kp UP_ARROW  &kp LEFT       &kp DOWN
             >;

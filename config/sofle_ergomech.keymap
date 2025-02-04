@@ -23,6 +23,10 @@
     flavor = "tap-preferred";
 };
 
+&caps_word {
+    continue-list = <UNDERSCORE BACKSPACE DELETE SPACE EXCLAMATION DOLLAR PERCENT AMPERSAND LEFT_PARENTHESIS RIGHT_PARENTHESIS QUESTION SEMICOLON SINGLE_QUOTE DOUBLE_QUOTES COMMA PERIOD>;
+};
+
 / {
     // Activate ADJUST layer by pressing raise and lower
 

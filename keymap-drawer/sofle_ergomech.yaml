@@ -47,7 +47,7 @@ layers:
   - ','
   - .
   - /
-  - '&Parenthesies'
+  - '&Dbl_Parenthesies'
   - CONTEXT MENU
   - LCTRL
   - LALT
@@ -65,7 +65,7 @@ layers:
   - LEFT
   - DOWN
   lower:
-  - {t: Gui+Q, h: Gui+W}
+  - {t: Gui+W, h: Gui+Q}
   - Gui+`
   - F2
   - {t: Gui+S, h: Gui+Sft+S}
@@ -124,11 +124,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - A
-  - B
-  - C
-  - D
-  - E
+  - '&msc MOVE_Y(15)'
+  - '&msc SCRL_RIGHT'
+  - '&msc SCRL_UP'
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_DOWN'
   raise:
   - BT CLR
   - {t: BT, h: '0'}

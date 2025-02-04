@@ -47,7 +47,7 @@ layers:
   - ','
   - .
   - /
-  - '&Dbl_Parenthesies'
+  - '&Dbl_Brakets'
   - CONTEXT MENU
   - LCTRL
   - LALT

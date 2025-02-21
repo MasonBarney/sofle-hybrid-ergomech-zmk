@@ -123,11 +123,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&Dbl_Brakets'
   - '&mkp RCLK'
-  - '&msc SCRL_RIGHT'
-  - '&msc SCRL_DOWN'
   - '&msc SCRL_LEFT'
+  - '&msc SCRL_DOWN'
+  - '&msc SCRL_RIGH'
   - '&msc SCRL_UP'
   raise:
   - BT CLR
